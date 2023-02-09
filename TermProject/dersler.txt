@@ -1,0 +1,5 @@
+BLM1012,Yapısal Programlamaya Giris,6,120
+BLM3110,Bilgisayar Muhendisliginde Ozel Konular,5,5
+MAT1072,Matematik,6,100
+MDB1032,Ileri Ingilizce,3,100
+SEC1001,Secmeli,2,20

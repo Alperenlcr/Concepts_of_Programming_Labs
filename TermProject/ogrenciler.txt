@@ -1,0 +1,6 @@
+20011001,Doga,Nature,17,3
+20011002,Burcu,Kon,6,1
+20011003,Berkay,Anil,14,3
+20011023,Mehmet Alperen,Olcer,20,4
+20011025,Kerim,Cur,5,1
+20011029,Zeynep,Saat,8,2

@@ -1,0 +1,4 @@
+BLM1012		            Yapısal Programlamaya Giris		kredi_bilgisi : 6  kontenjan siniri : 120  dersi alan kisi sayisi : 3
+BLM3110		 Bilgisayar Muhendisliginde Ozel Konular		kredi_bilgisi : 5  kontenjan siniri : 5  dersi alan kisi sayisi : 5
+MAT1072		                               Matematik		kredi_bilgisi : 6  kontenjan siniri : 100  dersi alan kisi sayisi : 3
+MDB1032		                         Ileri Ingilizce		kredi_bilgisi : 3  kontenjan siniri : 100  dersi alan kisi sayisi : 3
